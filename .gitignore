@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Database files
+*.db
+
+# Uploaded files
+uploads/
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
