@@ -1,0 +1,54 @@
+[
+    {
+        "id": 4,
+        "name": "Priya Iyer",
+        "email": "priya.iyer@example.com",
+        "skills": [
+            "Git",
+            "Machine Learning",
+            "NumPy",
+            "Pandas",
+            "Python",
+            "SQL"
+        ],
+        "profile_score": 50.0
+    },
+    {
+        "id": 5,
+        "name": "Aarav Shah",
+        "email": "aarav.shah@example.com",
+        "skills": [
+            "Docker",
+            "Git",
+            "Java",
+            "Machine Learning",
+            "Python",
+            "Scikit-learn",
+            "SQL"
+        ],
+        "profile_score": 58.33
+    },
+    {
+        "id": 6,
+        "name": "Ramkirubhakaran Prakash",
+        "email": "ramkirubhakaranprakash@gmail.com",
+        "skills": [
+            "Artificial Intelligence",
+            "AWS",
+            "Data Science",
+            "Git",
+            "GitHub",
+            "Java",
+            "Machine Learning",
+            "NumPy",
+            "OpenCV",
+            "Oracle",
+            "Pandas",
+            "Python",
+            "Scikit-learn",
+            "SQL",
+            "YOLOv8"
+        ],
+        "profile_score": 100.0
+    }
+]
